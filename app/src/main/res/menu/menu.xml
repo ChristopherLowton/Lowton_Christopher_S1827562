@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Christopher Lowton - S1827562-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/datePicker"
+        android:title="@string/action_DatePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:showAsAction="always"
+        android:onClick="showDatePickerDialog" />
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_allRoadworks"
+        android:title="@string/action_allRoadworks"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_currentIncidents"
+        android:title="@string/action_currentIncidents"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_roadworks"
+        android:title="@string/action_roadworks"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_plannedRoadworks"
+        android:title="@string/action_plannedRoadworks"
+        app:showAsAction="never"/>
+
+</menu>

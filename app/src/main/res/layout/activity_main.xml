@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Christopher Lowton - S1827562-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Welcome to the traffic and roadworks app.\n\nTo view a map of all roadworks and incidents switch to landscape view.\n\nSearch and date filter options are available in the toolbar and full lists of roadworks are available in the pop up menu.\n\nYou can also click on a listing to view it's full details."
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"/>
+
+    <FrameLayout
+        android:id="@+id/map_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="invisible"/>
+
+</LinearLayout>

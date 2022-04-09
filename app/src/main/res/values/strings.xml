@@ -1,0 +1,11 @@
+<!--Christopher Lowton - S1827562-->
+<resources>
+    <string name="app_name">Lowton_Christopher_S1827562</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="search_hint">M8 J19</string>
+    <string name="action_currentIncidents">Current Incidents</string>
+    <string name="action_roadworks">Roadworks</string>
+    <string name="action_plannedRoadworks">Planned Roadworks</string>
+    <string name="action_allRoadworks">All Roadworks</string>
+    <string name="action_DatePicker">Filter</string>
+</resources>

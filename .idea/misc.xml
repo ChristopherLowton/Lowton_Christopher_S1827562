@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout-land/activity_item.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout-land/activity_list.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout-land/activity_main.xml" value="0.240625" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout-land/list_item.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/activity_item.xml" value="0.33" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/activity_list.xml" value="0.25" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/activity_maps.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/fragment_list.xml" value="0.33" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/item_view.xml" value="0.1" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/list_item.xml" value="0.32563405797101447" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/listview_adapter.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/main_toolbar.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/mainmenu.xml" value="0.3625" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/layout/menu.xml" value="0.3625" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/menu-land/menu.xml" value="0.265625" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/menu/main_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/menu/menu.xml" value="0.33" />
+        <entry key="..\:/Users/Chris/AndroidStudioProjects/Lowton_Christopher_S1827562/app/src/main/res/xml/searchable.xml" value="0.12083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
